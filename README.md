@@ -1,14 +1,14 @@
 <h1>👋 Hello there! I'm Karl F.C.  </h1>
 
-I am a Civil Engineering student with a passion for highway and transport engineering. I aspire to work on projects that involve providing roads to those furthest from society as well as minimalizing traffic on urbanized areas 
+I am a Civil Engineering student with a passion for highway and transport engineering. I aspire to work on projects that involve providing roads to those furthest from society, minimalizing traffic in urbanized areas, and using technology to solve them more efficiently.
 
-- 🔬 I'm currently working on a research project proposal on conducting an analysis on Traffic flow using SUMO (Simulation on Urban Mobility)
+- 🔬 I'm currently working on a research project proposal on conducting an analysis of Traffic flow using SUMO (Simulation on Urban Mobility)
 - 🪐 I’m currently taking Bachelor of Science in Civil Engineering
-- 🌱 I’m currently learning about Python and Javascript. I'm also polishing my knowledge on the use of a certain traffic Simulation software called Simulation on Urban Mobility (SUMO)
-- 🔎 I’m looking to collaborate on open-source projects related to civil engineering.
+- 🌱 I’m currently learning about Angular and NodeJS, as well as BIM and Simulation software.
+- 🔎 I’m looking to collaborate on open-source projects, especially those related to civil engineering.
 - 📫 How to reach me: karlfcris5@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Apart from Science, Mathematics and Engineering, I am also interested in Computers and Computer Software, Philosophy, and Pscyhology.
+- ⚡ Fun fact: Apart from Science, Mathematics, and Engineering, I am also interested in Computer Software, Philosophy, and Pscyhology.
 
 
 
