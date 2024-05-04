@@ -28,7 +28,13 @@ I am a Civil Engineering student with a passion for highway and transport engine
     - Adobe After Effects
  - Software modification (Modding)
 
-
+### Languages and Frameworks
+ - HTML
+ - CSS
+ - Javascript
+ - Angular
+ - Typescript
+ - Tailwind CSS
 <p align="center"> <i><emphasis> When life gives you lemons, make orange juice; make life wonder how. </i> </emphasis> </p>
 
 <!--roads, bridges, ports, airports, SUMO, GIS>
