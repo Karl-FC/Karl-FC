@@ -2,9 +2,9 @@
 
 I am a Civil Engineering student with a passion for highway and transport engineering. I aspire to work on projects that involve providing roads to those furthest from society, minimalizing traffic in urbanized areas, and using technology to solve them more efficiently.
 
-- 🔬 I'm currently working on a research project proposal on conducting an analysis of Traffic flow using SUMO (Simulation on Urban Mobility)
+- 🔬 I'm currently working on a Steel Design and Analysis Web Application
 - 🪐 I’m currently taking Bachelor of Science in Civil Engineering
-- 🌱 I’m currently learning about Angular and NodeJS, as well as BIM and Simulation software.
+- 🌱 I’m currently learning about Machine Learning, as well as BIM and Simulation software.
 - 🔎 I’m looking to collaborate on open-source projects, especially those related to civil engineering.
 - 📫 How to reach me: karlfcris5@gmail.com
 - 😄 Pronouns: He/him
@@ -16,16 +16,15 @@ I am a Civil Engineering student with a passion for highway and transport engine
  - Basic Computer Operations
  - Autodesk Civil3D
  - Autodesk Revit
- - Ms Excel
- - Ms PowerPoint
- - Graphic Design
-    - Canva
+ - Ms Office
  - Multimedia Editing
+    - Canva
     - Adobe Photoshop
     - Adobe Illustrator
-    - Wondershare Filmora
+    - Adobe Animate
     - Adobe Premiere Pro
     - Adobe After Effects
+    - Wondershare Filmora
  - Software modification (Modding)
 
 ### Languages and Frameworks
