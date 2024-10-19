@@ -3,19 +3,20 @@
 I am a Civil Engineering student with a passion for technology and software. I aspire to work on projects that involve designing roads, infrastructure and solutions to those furthest from society, minimalizing traffic in urbanized areas, as well as discovering new technologies to execute tasks with better efficiency and convenience.
 
 - 🪐 I’m currently taking Bachelor of Science in Civil Engineering
-- 🔬 I'm currently working on a self-help blog related to mental health and Philosophy
+- 🔬 I'm currently working on a Fire Simulation System project
 - 🌱 I’m currently learning about BIM and Simulation software, as well as DevOps and Machine Learning.
-- 🔎 I’m looking to collaborate on projects that will help me gain knowledge, especially those related to Civil Engineering.
+- 🔎 I’m looking to collaborate on projects that will help me gain knowledge, especially those related to Civil Engineering and latest technology.
 - 🚀 I'm aspiring to become a Digital Civil Engineer.
 - 📫 How to reach me: karlfc5@proton.me
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Apart from Science, Mathematics, and Engineering, I am also interested in Computer Software, Philosophy, Pscyhology, Anime, and Meme culture.
+- ⚡ Fun fact: Apart from Science, Mathematics, and Engineering, I am also interested in Computer Software, Philosophy, Pscyhology, Working out, Anime, and Meme culture.
 - 🗿 During my downtime, I work on several fangames and mods
 
 
 
 ## Skills
  - Basic Computer Operations
+ - AutoCAD
  - Autodesk Civil3D
  - Autodesk Revit
  - Ms Office
@@ -29,15 +30,19 @@ I am a Civil Engineering student with a passion for technology and software. I a
     - Wondershare Filmora
  - Software modification (Modding)
 
-### Languages and Frameworks
+### Experiences
  - HTML
  - CSS
  - Javascript
  - Angular
+ - React
+ - Bootstrap
  - Typescript
- - Tailwind CSS
+ - Tailwind
  - Python
- - 
+ - Google Firebase
+ - Facebook Graph API
+
 <p align="center"> <i><emphasis> When life gives you lemons, make orange juice; make life wonder how. </i> </emphasis> </p>
 
 <!--roads, bridges, ports, airports, SUMO, GIS>
